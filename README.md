@@ -1,4 +1,4 @@
-# Video Game Store Inventory Management System
+# Store Inventory Management System
 This is an inventory management system developed for a video game store using REST and GraphQL APIs, agile techniques, and test-driven development approach. This system allows the end user to manage the inventory of video games, game consoles, and T-shirts.
 
 ## Back-End Structure
